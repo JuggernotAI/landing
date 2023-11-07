@@ -6,6 +6,16 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
+.fixed-bottom-right{
+		position: fixed; /* Fixed position relative to the viewport */
+            left: 0;       /* Zero distance from the right */
+            bottom: 0;      /* Zero distance from the bottom */
+            width: 700px;   /* Width of the div */
+            height: 50px;  /* Height of the div */
+            text-align: left; /* Center text horizontally */
+            padding: 12px; /* Some padding */
+     
+}
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
